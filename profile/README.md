@@ -1,6 +1,6 @@
 ## What are we doing?
 
-Our project seeks to provide a convenient **search for products and price comparisons in all online stores in the world** without any restrictions. To do this, we are developing a program with elements of artificial intelligence that searches for online stores and imports all their products into our database.
+Our project https://shopping.mercatos.com/en/ seeks to provide a convenient **search for products and price comparisons in all online stores in the world** without any restrictions. To do this, we are developing a program with elements of artificial intelligence that searches for online stores and imports all their products into our database.
 
 **<details><summary>Read more</summary>**
 <br>*If you are a store owner and want to connect to our platform (thereby increasing your sales), please fill out this application.
@@ -21,7 +21,7 @@ With many years of experience in advertising and international trade, we have se
 
 ## Что мы делаем?
 
-Наш проект стремится предоставить удобный **поиск товаров и сравнения цен по всем интернет-магазинам мира** без каких либо ограничений. Для этого мы разрабатываем программу с элементами искусственного интеллекта, которая ищет интернет магазины и импортируем все их товары в нашу базу данных.
+Наш проект https://shopping.mercatos.com/ru/ стремится предоставить удобный **поиск товаров и сравнение цен по всем интернет-магазинам мира** без каких либо ограничений. Для этого мы разрабатываем программу с элементами искусственного интеллекта, которая ищет интернет магазины и импортируем все их товары в нашу базу данных.
 
 **<details><summary>Читать дальше</summary>**
 <br>
